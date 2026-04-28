@@ -37,5 +37,6 @@ I once spent hours digging through `/usr/share/libvirt/` just to find a hidden s
 
 My first choice was Linux Mint, but it stubbornly refused to boot on my hardware. I pivoted to Lubuntu just to get a working system, but within a week, my curiosity took over. I hopped to Fedora, then experimented with Arch and then explored different distros like Void Linux And NixOS, before ultimately finding my home in the Fedora ecosystem. This journey of "fixing things that refuse to boot" is exactly what led me to create **fNvidiaSBSign**.
 
-I Also Started Building Websites When I Was 12 Only Just Mostly My Knowladge Is Mostly Basic **HTML, CSS, And JavaScript** Before I Knew How To Advance Code And Learn More About **Tailwind CSS**
+I Also Started Building Websites When I Was 12 Only Just Mostly My Knowladge Is Mostly Basic **HTML, CSS, And JavaScript** Before I Knew How To Advance Code And Learn More About **Tailwind CSS**.
+
 ---

@@ -10,7 +10,7 @@
 *Automated utility for Fedora users to sign NVIDIA kernel modules for Secure Boot.*
 
 **[BlazeWebsite](https://blazepixel76.github.io/BlazeWebsite/)**
-*Modern portfolio website built as a SPA*
+*My Website I Built As My Portfolio For Introduction*
 
 ---
 

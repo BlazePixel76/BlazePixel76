@@ -1,16 +1,16 @@
 ## Hi, I'm @BlazePixel76
 
-**Linux Enthusiast | System Tinkerer | Fedora User**
+**Linux Enthusiast | System Tinkerer | A Nerdy Linux User**
 
 ---
 
 ### Featured Projects
 
 **[fNvidiaSBSign](https://github.com/BlazePixel76/fNvidiaSBSign)** 
-*Automated utility for Fedora users to sign NVIDIA kernel modules for Secure Boot. Say goodbye to driver lag!*
+*Automated utility for Fedora users to sign NVIDIA kernel modules for Secure Boot.*
 
 **[BlazeWebsite](https://blazepixel76.github.io/BlazeWebsite/)**
-*Modern portfolio website built as a SPA with smooth animations, adaptive theming, and responsive design.*
+*Modern portfolio website built as a SPA*
 
 ---
 
@@ -31,14 +31,13 @@
 
 ### Current Focus
 
-- **fNvidiaSBSign Maintenance:** Helping Fedora users bypass Secure Boot driver blocks with automated signing
-- **Kernel Module Research:** Streamlining manual `.ko` signing when standard akmods fail
-- **System Stability:** Ensuring NVIDIA driver persistence across Fedora kernel updates
-- **Web Development:** Building and maintaining portfolio sites to showcase my work
+- **fNvidiaSBSign Maintenance:** Helping Fedora users bypass Secure Boot driver blocks with automated signing using my tool.
+- **Web Development:** Building and maintaining portfolio sites to showcase my work or anything else.
+- **And A Ton More Im Too Lazy To List Here**
 
 ---
 
-### GitHub Stats
+### My GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlazePixel76&theme=radical)](https://github.com/BlazePixel76)
 

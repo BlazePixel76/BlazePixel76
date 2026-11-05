@@ -9,6 +9,9 @@
 **[fNvidiaSBSign](https://github.com/BlazePixel76/fNvidiaSBSign)** 
 *Automated utility for Fedora users to sign NVIDIA kernel modules for Secure Boot.*
 
+**[BakaKrnl](https://github.com/BlazePixel76/BakaKrnl-c2s)** 
+*A WIP Kernel Designed To Give Root Access With ReSukiSU*
+
 **[BlazeWebsite](https://blazepixel76.github.io/BlazeWebsite/)**
 *My Website I Built As My Portfolio For Introduction*
 
